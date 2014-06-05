@@ -44,7 +44,7 @@
     </channeldata> 
     <channeldata>
         <id>6</id>
-        <name>TV Di&aacute;rio</name>
+        <name>TV Diario</name>
         <url>http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8</url>
 	<status>0</status>
         <icon>ch_tvdiario</icon> 
@@ -79,7 +79,7 @@
     </channeldata> 
     <channeldata>
         <id>11</id>
-        <name>Rede Fam&iacute;lia</name>
+        <name>Rede Familia</name>
         <url>mms://189.1.176.242/redefamilia</url>
 	<status>0</status>
         <icon>ch_redefamilia</icon> 
