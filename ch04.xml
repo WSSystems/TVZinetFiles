@@ -65,7 +65,7 @@
     </channeldata> 
     <channeldata>
         <id>6</id>
-        <name>Eu, a Patroa e as Crianças</name>
+        <name>Eu, a Patroa e as Criancas</name>
         <url>http://76.73.44.194:1935/ctv/_definst_/patroa/hasbahca.m3u8</url>
 	<status>0</status>
         <icon>ch_euapatroa</icon> 
@@ -114,7 +114,7 @@
     </channeldata> 
     <channeldata>
         <id>6</id>
-        <name>Um Maluco no Pedaço</name>
+        <name>Um Maluco no Pedaco</name>
         <url>http://76.73.44.194:1935/ctv/_definst_/maluconopedaco/hasbahca.m3u8</url>
 	<status>0</status>
         <icon>ch_ummaluconp</icon> 

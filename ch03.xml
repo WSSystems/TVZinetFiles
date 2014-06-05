@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Channel>
     <channeldata>
         <id>1</id>
@@ -44,7 +44,7 @@
     </channeldata> 
     <channeldata>
         <id>6</id>
-        <name>Caverna do Drag&atilde;o</name>
+        <name>Caverna do Dragao</name>
         <url>http://76.73.44.194:1935/ctv/_definst_/caverna/hasbahca.m3u8</url>
         <status>0</status>
         <icon>ch_cavernadodragao</icon> 
@@ -65,7 +65,7 @@
     </channeldata> 
     <channeldata>
         <id>6</id>
-        <name>Os Cavaleiros do Zodíaco</name>
+        <name>Os Cavaleiros do Zodiaco</name>
         <url>http://76.73.44.194:1935/ctv/_definst_/cdz/hasbahca.m3u8</url>
         <status>0</status>
         <icon>ch_cavaleirosdozodiaco</icon> 
@@ -93,7 +93,7 @@
     </channeldata> 
     <channeldata>
         <id>6</id>
-        <name>A Turma da Mônica</name>
+        <name>A Turma da Monica</name>
         <url>http://www.workstation.name/desenhos/monica/054.mp4</url>
         <status>0</status>
         <icon>ch_turmadamonica</icon> 
