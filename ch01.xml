@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Channel>
+    <channeldata>
+        <id>1</id>
+        <name>TV Aparecida</name>
+        <url>rtmp://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream</url>
+	<status>2</status>
+        <icon>ch_aparecida</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>1</id>
+        <name>SBT</name>
+        <url>rtmp://31.204.128.76/live/master94</url>
+	<status>0</status>
+        <icon>ch_sbt</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>2</id>
+        <name>Rede Record</name>
+        <url>rtmp://31.204.128.140/live/master14</url>
+	<status>0</status>
+        <icon>ch_record</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>3</id>
+        <name>Canal Viva</name>
+        <url>rtmp://31.204.128.140/live/master21</url>
+	<status>0</status>
+        <icon>ch_canalviva</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>4</id>
+        <name>TV Cultura</name>
+        <url>rtmp://200.136.27.12/live/tv</url>
+	<status>0</status>
+        <icon>ch_tvcultura</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>5</id>
+        <name>Sat Total</name>
+        <url>http://204.45.108.26:1935/ctv/_definst_/filmes/sat_total.m3u8</url>
+	<status>0</status>
+        <icon>ch_sattotal</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>TV Diário</name>
+        <url>http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8</url>
+	<status>0</status>
+        <icon>ch_tvdiario</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>7</id>
+        <name>Chef TV</name>
+        <url>http://flashd.localmidia.com.br:1935/cheftv/aovivo/hasbahca.m3u8</url>
+	<status>0</status>
+        <icon>ch_cheftv</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>8</id>
+        <name>TV ABCD</name>
+        <url>rtmp://tvabcd.flashplayer.acessaradios.com.br:443/tvabcd/*.*</url>
+	<status>0</status>
+        <icon>ch_tvabcd</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>9</id>
+        <name>Agro Canal</name>
+        <url>rtmp://srvvenus.canaldoboi.com/liveac/livestream</url>
+	<status>0</status>
+        <icon>ch_agrocanal</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>10</id>
+        <name>Amazon Sat</name>
+        <url>rtmp://fl1.stream.distribui.com/live/distribui=distribuidemo=testeamz</url>
+	<status>0</status>
+        <icon>ch_amazonsat</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>11</id>
+        <name>Rede Família</name>
+        <url>mms://189.1.176.242/redefamilia</url>
+	<status>0</status>
+        <icon>ch_redefamilia</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>12</id>
+        <name>Rede Vida</name>
+        <url>mms://wmedia.telium.com.br/redevida</url>
+	<status>0</status>
+        <icon>ch_redevida</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>13</id>
+        <name>Rit TV</name>
+        <url>rtmp://67.228.212.5/ponto79/ongrace</url>
+	<status>0</status>
+        <icon>ch_rit</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>14</id>
+        <name>CNT</name>
+        <url>rtmp://flash.asaweb.com.br/cntamericana/cntamericana.sdp</url>
+	<status>0</status>
+        <icon>ch_cnt</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>15</id>
+        <name>GNT</name>
+        <url>rtmp://31.204.128.76/live/132</url>
+	<status>0</status>
+        <icon>ch_gnt</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>16</id>
+        <name>Record News</name>
+        <url>rtmp://a1.fabricahost.com.br:1935/redemercosul/redemercosul</url>
+	<status>0</status>
+        <icon>ch_recordnews</icon> 
+    </channeldata> 
+</Channel>
