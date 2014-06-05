@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Channel>
+    <channeldata>
+        <id>1</id>
+        <name>Cartoon Network</name>
+        <url>rtmp://31.204.128.75/live/brlive_0028</url>
+        <status>0</status>
+        <icon>ch_catoonnetwork</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>2</id>
+        <name>Os Simpsons</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/simpsons/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_simpsons</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>3</id>
+        <name>Nick</name>
+        <url>rtmp://31.204.128.75/live/brlive_0030</url>
+        <status>0</status>
+        <icon>ch_nick</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>4</id>
+        <name>Dragon Ball Z</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/dbz/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_dragonballz</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>5</id>
+        <name>Batman</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/batman/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_batman</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Bob Esponja</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/bob/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_bobesponja</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Caverna do Dragão</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/caverna/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_cavernadodragao</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Discovery Kids</name>
+        <url>rtmp://31.204.128.74/live/master24</url>
+        <status>0</status>
+        <icon>ch_discoverykids</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Ben 10</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/ben10/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_ben10</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Os Cavaleiros do Zodíaco</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/cdz/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_cavaleirosdozodiaco</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Doug Funnie</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/doug/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_doug</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Nick HD</name>
+        <url>rtmp://31.204.153.72/live/hd2</url>
+        <status>0</status>
+        <icon>ch_nickhd</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Pica-Pau</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/picapau/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_picapau</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>A Turma da Mônica</name>
+        <url>http://www.workstation.name/desenhos/monica/054.mp4</url>
+        <status>0</status>
+        <icon>ch_turmadamonica</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Naruto</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/naruto/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_naruto</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Nick Jr</name>
+        <url>rtmp://109.200.202.124/live/nickjr</url>
+        <status>0</status>
+        <icon>ch_nickjr</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Phineas e Ferb</name>
+        <url>http://www.workstation.name/desenhos/fferb/008.flv</url>
+        <status>0</status>
+        <icon>ch_phieferb</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Tooncast</name>
+        <url>rtmp://109.200.202.124/live/tooncast</url>
+        <status>0</status>
+        <icon>ch_tooncast</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Disney</name>
+        <url>rtmp://109.200.202.124/live/disney</url>
+        <status>0</status>
+        <icon>ch_disney</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Futurama</name>
+        <url>http://204.45.108.74:1935/ctv/_definst_/futurama/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_futurama</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Disney XD</name>
+        <url>rtmp://109.200.202.124/live/disneyxd</url>
+        <status>0</status>
+        <icon>ch_disneyxd</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Disney Jr</name>
+        <url>rtmp://109.200.202.124/live/animax</url>
+        <status>0</status>
+        <icon>ch_disneyjr</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Galinha Pintadinha</name>
+        <url>http://76.73.44.194:1935/ctv/_definst_/galinha/hasbahca.m3u8</url>
+        <status>0</status>
+        <icon>ch_galinhapintadinha</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Gloob</name>
+        <url>rtmp://31.204.128.140/live/master35</url>
+        <status>0</status>
+        <icon>ch_gloob</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>Digimon</name>
+        <url>rtmp://extondemand.livestream.com:80/ondemand/trans/dv15/mogulus-user-files/chtvonlinespdigi/2012/05/23/223c0481-5e82-471a-8b30-10e626bd35e1</url>
+        <status>0</status>
+        <icon>ch_digimon</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>One Piece</name>
+        <url>rtmp://extondemand.livestream.com:80/ondemand/trans/dv15/mogulus-user-files/chonepeacehd/2012/02/14/c1927f3b-af37-4bca-af25-2a06dad60005</url>
+        <status>0</status>
+        <icon>ch_onepiece</icon> 
+    </channeldata> 
+</Channel>

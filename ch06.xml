@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Channel>
+    <channeldata>
+        <id>1</id>
+        <name>Esporte Interativo</name>
+        <url>rtmp://31.204.153.70/live/brlive_0029</url>
+	<status>0</status>
+        <icon>ch_ei</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>2</id>
+        <name>Fox Sports Brasil</name>
+        <url>rtmp://31.204.153.72/live/fsb</url>
+	<status>0</status>
+        <icon>ch_foxsports</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>3</id>
+        <name>Sports Mais</name>
+        <url>rtmp://31.204.153.71/live/sportsmais</url>
+	<status>0</status>
+        <icon>ch_sportsmais</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>4</id>
+        <name>ESPN Brasil</name>
+        <url>rtmp://31.204.153.71/live/master05</url>
+	<status>0</status>
+        <icon>ch_espnbrasil</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>5</id>
+        <name>ESPN HD</name>
+        <url>rtmp://31.204.128.74/live/master27</url>
+	<status>0</status>
+        <icon>ch_espnhd</icon> 
+    </channeldata> 
+    <channeldata>
+        <id>6</id>
+        <name>ESPN</name>
+        <url>rtmp://31.204.153.71/live/master06</url>
+	<status>0</status>
+        <icon>ch_espn</icon> 
+    </channeldata> 
+</Channel>

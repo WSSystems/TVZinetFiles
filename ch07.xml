@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Channel>
+    <channeldata>
+        <id>2</id>
+        <name>Multishow</name>
+        <url>rtmp://31.204.128.74/live/brlive_0031</url>
+	<status>0</status>
+        <icon>ch_multishow</icon> 
+    </channeldata> 
+</Channel>
