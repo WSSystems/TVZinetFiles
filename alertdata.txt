@@ -1,7 +1,7 @@
-<strong><u>Vers&atilde;o 1.5</u></strong>
+<strong><u>Vers&atilde;o 1.5</u></strong><br />
 <marker> Novo e eficiente m&eacute;todo de exibir novidades.<br />
 <marker> Elimina&ccedil;&atilde;o de espa&ccedil;os desnecess&atilde;rios no layout.<br />
 <marker> Caixa de di&atilde;logo de "carregando" ao visualizar canais.<br />
 <marker> Alguns reparos menores.<br />
 
-<strong>Lembre-se divulgue o TV Zinet aos seus amigos!</strong>
+<br /><strong>Lembre-se divulgue o TV Zinet aos seus amigos!</strong>
