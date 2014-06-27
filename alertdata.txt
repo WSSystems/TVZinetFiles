@@ -1,8 +1,6 @@
-<strong><u>Vers&atilde;o 1.5</u></strong><br />
+<strong><u>Vers&atilde;o 1.6</u></strong><br />
 <ul>
-<li>Novo e eficiente m&eacute;todo de exibir novidades.</li>
-<li>Elimina&ccedil;&atilde;o de espa&ccedil;os desnecess&aacute;rios no layout.</li>
-<li>Caixa de di&aacute;logo de "carregando" ao visualizar canais.</li>
+<li>Novo Canal Adicionado - Adinet TV.</li>
 <li>Alguns reparos menores.</li>
 </ul>
 
